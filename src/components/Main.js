@@ -34,7 +34,7 @@ axios.interceptors.request.use(function (config){
 });
 
 const Main = () => {
-  const company = 'Ecommerce';
+  const company = 'GazeOnTrade';
 
   return (
     <>
